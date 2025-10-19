@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1701025062 source:c:\bme\2023_24_1\prog1\nagy házi\etterem\menuvezerles.c
+	"menuvezerles.h"
+	"asztalkezeles.h"
+	"menukezeles.h"
+	"hibakezeles.h"
+	"debugmalloc.h"
+	<stdio.h>
+	<stdlib.h>
+
+1701027917 source:c:\bme\2023_24_1\prog1\nagy házi\etterem\fajlkezeles.c
+	"fajlkezeles.h"
+	"asztalkezeles.h"
+	"menukezeles.h"
+	"debugmalloc.h"
+	"rendeleskezeles.h"
+	<stdio.h>
+	<string.h>
+
+1701025166 source:c:\bme\2023_24_1\prog1\nagy házi\etterem\main.c
+	"tipusok.h"
+	"hibakezeles.h"
+	"menuvezerles.h"
+	"rendeleskezeles.h"
+	"szamlakezeles.h"
+	"asztalkezeles.h"
+	"menukezeles.h"
+	"fajlkezeles.h"
+	"debugmalloc.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1698487561 c:\bme\2023_24_1\prog1\nagy házi\etterem\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1701025166 source:c:\bme\2023_24_1\prog1\nagy házi\etterem\menukezeles.c
+	"menukezeles.h"
+	"debugmalloc.h"
+	"hibakezeles.h"
+	<string.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+
+1701025166 source:c:\bme\2023_24_1\prog1\nagy házi\etterem\rendeleskezeles.c
+	"rendeleskezeles.h"
+	"debugmalloc.h"
+	"hibakezeles.h"
+	<stdio.h>
+	<stdlib.h>
+
+1701025164 source:c:\bme\2023_24_1\prog1\nagy házi\etterem\szamlakezeles.c
+	"szamlakezeles.h"
+	"debugmalloc.h"
+	"hibakezeles.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1701025166 source:c:\bme\2023_24_1\prog1\nagy házi\etterem\asztalkezeles.c
+	"asztalkezeles.h"
+	"hibakezeles.h"
+	"debugmalloc.h"
+	"rendeleskezeles.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1701017934 c:\bme\2023_24_1\prog1\nagy házi\etterem\asztalkezeles.h
+	"tipusok.h"
+
+1699204790 c:\bme\2023_24_1\prog1\nagy házi\etterem\koordinatakezeles.h
+
+1701017953 c:\bme\2023_24_1\prog1\nagy házi\etterem\rendeleskezeles.h
+	"tipusok.h"
+
+1701017950 c:\bme\2023_24_1\prog1\nagy házi\etterem\menuvezerles.h
+	"tipusok.h"
+
+1701017947 c:\bme\2023_24_1\prog1\nagy házi\etterem\menukezeles.h
+	"tipusok.h"
+
+1701024142 c:\bme\2023_24_1\prog1\nagy házi\etterem\tipusok.h
+	<stdbool.h>
+
+1701017956 c:\bme\2023_24_1\prog1\nagy házi\etterem\szamlakezeles.h
+	"tipusok.h"
+
+1701014783 c:\bme\2023_24_1\prog1\nagy házi\etterem\fajlkezeles.h
+	"tipusok.h"
+
+1701954984 source:c:\bme\2023_24_1\prog1\nagy házi\etterem\hibakezeles.c
+	"hibakezeles.h"
+	"debugmalloc.h"
+	<stdbool.h>
+	<string.h>
+
+1701017943 c:\bme\2023_24_1\prog1\nagy házi\etterem\hibakezeles.h
+	"tipusok.h"
+
